@@ -23,11 +23,10 @@ import java.io.*;
 
 /**
  * Defines constants that are used for 2048 GUI.
- * This file is to be used only in PA5 of CSE8B in Winter 2021.
+ * This file is to be used only in PA5 of CSE8B in Winter 2022.
  *
  * Bugs: None known
  *
- * @author Juan Dominguez, Rachel Chung
  */
 public class Constants2048 {
 
