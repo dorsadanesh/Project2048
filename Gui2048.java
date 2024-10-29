@@ -1,11 +1,9 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Title:              The game 2048
 // Files:              Board.java, Direction.java, Constants2048.java
-// Quarter:            Winter 2021
+// Quarter:            Winter 2022
 //
-// Author:             Rachel Chung, Juan Dominguez
-// Email:              (your email address)
-// Instructor's Name:  Christine Alvarado, Greg Miranda
+// Author:             Dorsa DaneshDezfuli
 //
 //////////////////////////// 80 columns wide //////////////////////////////////
 
