@@ -1,10 +1,9 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Main Class File:    Gui2048
-// File:               Constans2048.java
-// Quarter:            Winter 2020
+// File:               Constants2048.java
+// Quarter:            Winter 2022
 //
-// Author:             Rachel Chung, Juan Dominguez
-// Instructor's Name:  Christine Alvarado, Greg Miranda
+// Author:             Dorsa DaneshDezfuli
 //
 //////////////////////////// 80 columns wide //////////////////////////////////
 
