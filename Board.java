@@ -4,8 +4,6 @@
 // Quarter:            Winter 2022
 //
 // Author:             Dorsa DaneshDezfuli
-// Email:              ddaneshdezfuli@ucsd.edu
-// Instructor's Name:  Greg Miranda
 //
 ///////////////////////////////////////////////////////////////////////////////
 
