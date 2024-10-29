@@ -27,7 +27,6 @@ import java.io.*;
  *
  * Bugs: None known
  *
- * @author Juan Domingues, Rachel Chung
  */
 public class Gui2048 extends Application
 {
